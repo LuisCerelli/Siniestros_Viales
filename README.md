@@ -120,7 +120,7 @@ Descripción: Número de accidentes por comuna.
    
 Descripción: Relación entre el número de homicidios y la edad de las víctimas.
 
-![EDAD](Imagenes/01.png)
+![Graficos](Imagenes/Captura1.png)
 
 
 
